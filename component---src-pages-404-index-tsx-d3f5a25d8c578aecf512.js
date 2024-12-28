@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmokka=self.webpackChunkmokka||[]).push([[834],{886:function(e,a,t){t.r(a);var o=t(6540),r=t(1501);a.default=()=>o.createElement(r.PE,{title:"Mokka",description:"Mokka is a Gatsby starter for building a personal blog.",keywords:"gatsby, starter, blog",image:"/preview/og-image.png"},o.createElement(r.hE,{size:"h1"},"404. Page not found"))}}]);
-//# sourceMappingURL=component---src-pages-404-index-tsx-d3f5a25d8c578aecf512.js.map
